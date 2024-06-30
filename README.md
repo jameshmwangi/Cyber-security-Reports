@@ -1,2 +1,2 @@
 # Cyber security Reports
- Identifying isues is diffrent  from effectively communicating them  . This distinction is crucial for cybersecurity professionals. The ability to write reports that clearly convey the details of threats, vulnerabilities, and their remediation is paramount. This report specifically addresses aspects of networking and cloud security.
+ Identifying isues is diffrent  from effectively communicating them  . This distinction is crucial for cybersecurity professionals. The ability to write reports that clearly convey the details of threats, vulnerabilities, and their remediation is paramount. This reports focuses on evaluating and addressing security concerns within the domains of networking and cloud computing. 
